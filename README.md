@@ -49,4 +49,4 @@ BuddyBoss Passport is open-sourced software licensed under the [GPLv2 license](h
 
 ## About
 
-BuddyBoss Passport is developed by [Your Name or Company], a dedicated contributor to the WordPress and BuddyBoss communities. For more information, visit [Your Website].
+
