@@ -1,6 +1,6 @@
-# BuddyBoss Passport
+# Buddy Passport
 
-BuddyBoss Passport is a comprehensive WordPress plugin designed to enhance user experience on BuddyBoss-powered sites by providing advanced control over group visibility and profile view limits. This plugin enables site administrators to set role-based access controls, ensuring a more tailored and secure user interaction within the BuddyBoss community.
+Buddy Passport is a comprehensive WordPress plugin designed to enhance user experience on BuddyBoss-powered sites by providing advanced control over group visibility and profile view limits. This plugin enables site administrators to set role-based access controls, ensuring a more tailored and secure user interaction within the BuddyBoss community.
 
 ## Features
 
@@ -20,14 +20,14 @@ BuddyBoss Passport is a comprehensive WordPress plugin designed to enhance user 
 
 ### Setting Profile View Limits
 
-1. From the WordPress admin dashboard, navigate to BuddyBoss Passport > Settings.
+1. From the WordPress admin dashboard, navigate to Buddy Passport > Settings.
 2. Scroll to the 'Profile View Limits' section.
 3. Set the daily profile view limits for each user role as needed.
 4. Click 'Save Changes'.
 
 ### Configuring Group Visibility
 
-1. In the BuddyBoss Passport settings page, locate the 'Group Visibility' section.
+1. In the Buddy Passport settings page, locate the 'Group Visibility' section.
 2. Define access rules for each user role, specifying which groups are visible or hidden.
 3. Save your changes to apply the new visibility settings.
 
